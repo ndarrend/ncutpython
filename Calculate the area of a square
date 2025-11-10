@@ -1,0 +1,3 @@
+side = float(input("Enter the length of the square's side (cm): "))
+area = side * side
+print(f"The area of the square  {area:.2f} cm")

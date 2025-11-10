@@ -1,0 +1,4 @@
+num1 = float(input("Enter the first number:"))
+num2 = float(input("Enter the first number:"))
+product = num1 * num2
+print(f"The product of the two numbers {num1} and {num2} is:" ,product)

@@ -1,0 +1,5 @@
+edge = float(input("Enter the edge length of the cube: "))
+surface_area = (edge * edge)
+total_surface_area = (surface_area * 6)
+print(f"The surface area of one face is", surface_area, "square units")
+print(f"The total of surface area of the cube is", total_surface_area, "square units")
